@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636962922 source:c:\users\youcode\desktop\ayoub benouahi\calcule imc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
